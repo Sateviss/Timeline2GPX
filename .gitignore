@@ -1,0 +1,8 @@
+.vscode/
+output/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+timeline*.json
+*.gpx
